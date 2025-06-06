@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi there, I'm Vikash Kumar Singh
 
-<!--
-**csegeek/csegeek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Full Stack Developer | Java | Spring Boot | Angular|React | Docker |Kafka**  
+Hi, I’m **Vikash Kumar Singh**, a passionate software developer with experience building scalable backend systems and user-friendly frontend applications.
 
-Here are some ideas to get you started:
+- 💻 Working with **Java, Spring Boot,REST APIs, Angular,React, MySQL, MongoDB**
+- 🔧 Hands-on with **Microservices, Docker, AWS (EC2, Bedrock DB)**
+- 📊 Building data-driven platforms and internal tools that power real-world impact
+- 🛠️ Skilled in **Git, CI/CD, Swagger, Hibernate, DSA**
+- 🌱 Currently learning **Apache Kafka & system design**
+- 🧠 Love solving complex backend challenges and optimizing performance
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Let’s connect:  
+[LinkedIn](https://www.linkedin.com/in/vikashsingh26/) | [Portfolio](https://csegeek.github.io/portfolio/) | [Email](mailto:mmvvsingh26@gmail.com)
+
