@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Vikash Kumar Singh
 
-🚀 **Full Stack Developer | Java | Spring Boot | Angular|React | Docker |Kafka**  
+🚀 **Software Development Engineer | Java | Spring Boot | Angular|React | Docker |Kafka**  
 Hi, I’m **Vikash Kumar Singh**, a passionate software developer with experience building scalable backend systems and user-friendly frontend applications.
 
 - 💻 Working with **Java, Spring Boot,REST APIs, Angular,React, MySQL, MongoDB**
