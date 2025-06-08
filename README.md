@@ -11,5 +11,5 @@ Hi, I’m **Vikash Kumar Singh**, a passionate software developer with experienc
 - 🧠 Love solving complex backend challenges and optimizing performance
 
 📫 Let’s connect:  
-[LinkedIn](https://www.linkedin.com/in/vikashsingh26/) | [Portfolio](https://csegeek.github.io/portfolio/) | [Email](mailto:mmvvsingh26@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/vikashsingh26/) | [Portfolio](https://csegeek.github.io) | [Email](mailto:mmvvsingh26@gmail.com)
 
